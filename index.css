@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-container{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("/covid-cells.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    height:87%;
+    width:28%;
+    background-color: white;
+    padding: 10px;
+    
+}
+.container1{
+    height:16%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container2{
+    width: 49%;
+}
+
+.image{
+    width: 25%;
+    background-image: url("/docto1\ image.jpg");
+    background-size: cover;
+}
+
+.pra1{
+    font-size: 23px;
+}
+
+.btn{
+    width: 47%;
+    height: 32%;
+    margin-top: 7px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(42, 42, 247);
+    border:none
+}
+
+.container3{
+    height: 18%;
+    margin-top: 12px;
+    background-color: rgb(230, 248, 242);
+    border-radius: 12px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.container4{
+    width:24%;
+    height:100%;
+    background-image: url("/viruse.webp");
+    background-size: cover;
+}
+
+.container5{
+    height:92%;
+    width:65%;
+    padding-top:8px;   
+}
+
+.head{
+    font-weight: bold;
+}
+
+.pra2{
+    margin-top: 8px;
+    font-size: 17px;
+}
+
+.system{
+    margin-top: 10px;
+}
+.container6{
+    height: 23%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin-top: 10px;
+}
+.image1{
+    width: 30%;
+    border:1px solid black;
+    height: 100%;
+    background-image: url("/couph\ image.jpg");
+    background-size: cover;
+    border-radius: 15px;
+}
+.image2{
+    width:30%;
+    border:1px solid black;
+    height: 100%;
+    background-image: url("/fiver\ image.webp");
+    background-size: cover;
+    border-radius: 15px;
+}
+.image3{
+    width: 30%;
+    border:1px solid black;
+    height: 100%;
+    background-image: url("/deadache.webp");
+    background-size: cover;
+    border-radius: 15px;
+}
+.dekho{
+    margin-top: 5px;
+}
+.container7{
+    height: 20%;
+    padding: 10px;
+    background-color: rgb(253, 211, 240);
+    border-radius: 12px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.doctor{
+    width:30%;
+    height: 70%;
+    background-image: url("/dctor\ image.jpg");
+    background-size: cover;
+}
+.container8{
+   
+    height: 100%;
+    width: 65%;
+}
+.pra3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.pra4{
+    margin-top: 10px;
+    font-size: 17px;  
+}
+.btn2{
+    margin-top: 10px;
+    width: 45%;
+    height: 30%;
+    color: white;
+    background-color: rgb(42, 42, 247);
+    border-radius: 10px;
+    margin-left: 5px;
+    border: none;
+}
